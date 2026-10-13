@@ -30,7 +30,15 @@ A Windows computer was experiencing slow system performance and high resource us
 System resource usage decreased after closing the unnecessary application.
 
 ---
+### Screenshots
 
+**Before — High Resource Usage**
+
+![Lab 01 Before](https://github.com/rendworld44/IT-Support-Troubleshooting-Lab/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-12%20230813.png?raw=true)
+
+**After — Resource Usage Improved**
+
+![Lab 01 After](https://github.com/rendworld44/IT-Support-Troubleshooting-Lab/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-12%20231051.png?raw=true)
 ## Lab 02 — DNS Connectivity Troubleshooting
 
 ### Issue
@@ -67,6 +75,15 @@ A Windows system was unable to process printing tasks.
 The Print Spooler service was successfully restored and configured to start automatically.
 
 ---
+### Screenshots
+
+**Before — Print Spooler Stopped**
+
+![Lab 03 Before](https://github.com/rendworld44/IT-Support-Troubleshooting-Lab/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-13%20181236.png?raw=true)
+
+**After — Print Spooler Running**
+
+![Lab 03 After](https://github.com/rendworld44/IT-Support-Troubleshooting-Lab/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-13%20181503.png?raw=true)
 
 ## Skills Demonstrated
 
